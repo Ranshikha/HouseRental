@@ -31,7 +31,7 @@ const[secanswer,setsecanswer]=useState('')
       <section>
         <div className="single-house-info">
           <article className="desc">
-            <h3>Hi Everyone,</h3>
+            <h2>Hi Everyone,</h2>
             <p>
               This is Teams 2 from DF21. We are maintaning and progressing house rental to another level, just came up with this concept of having a right place at right time.<br></br>
               Can't belive that it worked.

@@ -68,7 +68,14 @@ function register1(e)
     }
 
     return(
-
+      <>
+      <header className="defaultHero">
+        <div className="banner">
+          <h1> Login </h1>
+          <div></div>
+          </div>
+      </header>
+        
         <div>  
            <section className="section-sign-up">
   <div className="sign-up-card">
@@ -99,6 +106,8 @@ function register1(e)
   </div>
 </section>
         </div>
+        </>
+        
     )
 }
 export default Login;
